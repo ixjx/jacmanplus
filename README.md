@@ -2,8 +2,10 @@
 
 ##Installation
 
-a theme for hexo
-just for learning
+a theme for hexo  
+
+just for learning  
+
 improved by Jacman , so called jacmanplus
 
 ###Install
