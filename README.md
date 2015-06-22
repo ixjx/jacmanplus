@@ -2,18 +2,16 @@
 
 ##Installation
 
-a theme for hexo
-
-just for learning
-
+a theme for hexo  
+just for learning  
 improved by Jacman , so called jacmanplus
 
 ###Install
 
 ```
-$ git clone https://github.com/ixjx/jacmanplus.git
-```
+$ git clone https://github.com/ixjx/jacmanplus.git themes/jacmanplus
 
+```
 ###Enable
 Modify `theme` setting in blog folder` _config.yml` to `jacmanplus`.
 
