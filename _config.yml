@@ -1,9 +1,9 @@
 ##### Menu
 menu:
   首页: /
-  归档: /archives
-  电台: /fm
-  关于: /about
+  归档: /blog/archives
+  电台: /blog/fm
+  关于: /blog/about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -124,7 +124,7 @@ baidu_search:     ## http://zn.baidu.com/
   enable: true
   id: ""  ## e.g. "783281470518440642"  for your baidu search id
   site: http://www.baidu.com/  ## your can change to your site instead of the default site
-
+  
 tinysou_search:     ## http://tinysou.com/
   enable: false
   id:  ## e.g. "4ac092ad8d749fdc6293" for your tiny search id
