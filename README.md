@@ -1,9 +1,9 @@
 # Jacmanplus
 
-##Installation
+##introduce
 
 a theme for hexo  
-just for learning  
+just for fun  
 improved by Jacman , so called jacmanplus
 
 ###Install
