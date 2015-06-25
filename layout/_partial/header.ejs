@@ -15,9 +15,7 @@ function root_for(path){
 %>
 <div>
 		<% if	(theme.imglogo.enable&&theme.imglogo.src){ %>
-			<div id="imglogo">
-				 <img src="<%- config.root %><%= theme.imglogo.src %>" alt="<%= config.title %>" title="<%= config.title %>"/>
-			</div>
+			<div class="sticker"></div>
 			<% } %>
 			<div id="textlogo">
 				<h1 class="site-name"><a href="<%- config.root %>" title="<%= config.title %>"><%= config.title %></a></h1>

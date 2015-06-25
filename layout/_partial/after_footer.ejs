@@ -1,6 +1,7 @@
 <script src="<%- config.root %>js/jquery-2.0.3.min.js"></script>
 <script src="<%- config.root %>js/jquery.imagesloaded.min.js"></script>
 <script src="<%- config.root %>js/gallery.js"></script>
+<script src="<%- config.root %>js/sticker.min.js"></script>
 
 <script type="text/javascript">
 $(document).ready(function(){ 
@@ -188,7 +189,8 @@ $(document).ready(function(){
   if($.fancybox){
     $('.fancybox').fancybox();
   }
-}); 
+});
+Sticker.init('.sticker');
 </script>
 <% } %>
 
